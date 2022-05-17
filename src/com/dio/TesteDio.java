@@ -15,7 +15,7 @@ public class TesteDio {
 			    //escolha
 			    menu = ler.nextInt();
 
-				//saida apos a escola
+				//saida apos a escolha
 				switch(menu){
 			    case 1:
 			    	System.out.printf("Abrindo Netflix\n");
